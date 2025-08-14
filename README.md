@@ -1,6 +1,6 @@
 - Hi, I’m @tech-Narendra
 - I’m interested in Coding
-- I’m currently learning Java full stack technology
+- I’m am trained in Java full stack technology
 - I’m looking forward to leverage my skills in the innovative projects
 
 <!---
