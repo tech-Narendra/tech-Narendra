@@ -22,7 +22,7 @@
 ---
 
 ## 💼 Professional Experience  
-- **Java Developer Intern** – [Your Current Company Name] *(Start Date – Present)*  
+- **Java Developer Intern** – HulkHireTech *(03-02-2025 to 30-03-2025)*  
   - Developed and maintained RESTful backend APIs using **Spring Boot 3.4**  
   - Implemented database queries and optimizations using **Spring JDBC** and **NamedParameterJdbcTemplate**  
   - Integrated payment gateways (Stripe) with session management and reconciliation logic  
